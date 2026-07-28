@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm [Your Name]
+# 💫 Hi 👋, I'm Muhammad
 
 **A passionate Software Engineering Student 💻 | C & C++ Programmer | Aspiring Software Developer 🚀**
 
