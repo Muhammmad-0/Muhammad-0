@@ -26,7 +26,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thekacarrot) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:boyb82672@gmail.com) 
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:boyb82672@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
