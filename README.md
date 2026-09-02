@@ -2,7 +2,7 @@
 
 **A passionate Software Engineering Student 💻 | C & C++ Programmer | Aspiring Software Developer 🚀**
 
-📧 **Email Me:** *boyb82672@gmail.com* for collaboration, project discussions, or just to connect. 😊
+📧 **Email Me:** *muhammad.softwareeng@gmail.com* for collaboration, project discussions, or just to connect. 😊
 
 * 🔭 **I'm currently working on:** Building C/C++ projects and improving my programming skills through hands-on development.
 * 🌱 **I'm currently learning:** Python, HTML, CSS, Git, GitHub, and Data Structures & Algorithms.
